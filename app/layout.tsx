@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Huy Tu — Senior Software Engineer",
   description:
-    "Portfolio of Huy Tu, a Senior Software Engineer building reliable full-stack, distributed, and agentic AI systems.",
+    "Portfolio of Huy Tu, a Senior Software Engineer with five years of experience in backend architecture, distributed systems, full-stack products, and agentic AI.",
   keywords: [
     "Huy Tu",
     "Senior Software Engineer",
