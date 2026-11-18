@@ -2,6 +2,8 @@
 
 A responsive portfolio built with Next.js and TypeScript, based on Huy Tu's professional experience in financial technology, distributed systems, full-stack development, and agentic AI.
 
+Live site: [tuphamngochuy.github.io/portfolio](https://tuphamngochuy.github.io/portfolio/)
+
 ## Run locally
 
 ```bash
